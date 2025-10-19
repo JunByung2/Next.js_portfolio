@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "박민영",
+    "num": "92410756",
+    "image": "/image/박민영-Photoroom.png",
+    "link": "https://github.com/minyeong0125"
+  },
+  {
+    "id": 2,
+    "name": "송미강",
+    "num": "92410794",
+    "image": "/image/1.webp",
+    "link": "https://github.com/Junbyung2"
+  },
+  {
+    "id": 3,
+    "name": "원종은",
+    "num": "92410823",
+    "image": "/image/원종은.png",
+    "link": "https://github.com/euniii0224"
+  },
+  {
+    "id": 4,
+    "name": "이성혜",
+    "num": "92415548",
+    "image": "/image/이성혜2.png",
+    "link": "https://github.com/SuNghYe414"
+  },
+  {
+    "id": 5,
+    "name": "허다현",
+    "num": "92410990",
+    "image": "/image/허다현-Photoroom.png",
+    "link": "https://github.com/chick127"
+  }
+]

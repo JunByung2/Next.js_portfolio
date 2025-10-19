@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Education",
+    "description": [
+      "면일초등학교 졸업",
+      "면목중학교 졸업",
+      "휘경여자고등학교 졸업",
+      "중부대학교 재학 중"
+    ]
+  },
+  { "id": 2, "title": "Major", "description": ["정보보호학전공"] },
+  {
+    "id": 3,
+    "title": "Skills",
+    "description": ["HTML", "CSS", "C", "Python", "Next.js"]
+  }
+]
