@@ -1,4 +1,3 @@
-import Navbar from "@/components/Navbar";
 import Image from "next/image";
 import mainImage from "../image/2.webp";
 import apple from "../image/apple.png";

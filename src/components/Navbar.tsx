@@ -9,7 +9,7 @@ export default function Navbar() {
           <div className="flex items-center font-bold">
             <Link href="/">
               <div className="text-lg text-black ml-6 hover:font-black">
-                SONG'S PORTFOLIO
+                SONG&apos;S PORTFOLIO
               </div>
             </Link>
           </div>

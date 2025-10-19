@@ -2,7 +2,6 @@ import React from "react";
 import team from "@/data/team.json";
 import Image from "next/image";
 import git from "@/image/git.png";
-import bear from "@/image/bear.png";
 
 export default function TeamPage() {
   return (
